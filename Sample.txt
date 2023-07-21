@@ -1,0 +1,8 @@
+program HelloWorld;
+var
+    x: integer;
+    message: string;
+begin
+    message := "Hello World";
+    x := 123;
+end.
